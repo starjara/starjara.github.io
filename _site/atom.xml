@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Starjara</title>
- <link href="https://starjara.github.io/atom.xml" rel="self"/>
- <link href="https://starjara.github.io/"/>
- <updated>2020-07-25T19:51:34+09:00</updated>
- <id>https://starjara.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-07-25T20:07:02+09:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Starjara</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Test post</title>
-   <link href="https://starjara.github.io/2020/07/25/test-post/"/>
+   <link href="http://localhost:4000/2020/07/25/test-post/"/>
    <updated>2020-07-25T00:00:00+09:00</updated>
-   <id>https://starjara.github.io/2020/07/25/test-post</id>
+   <id>http://localhost:4000/2020/07/25/test-post</id>
    <content type="html">&lt;p&gt;This post for the test&lt;/p&gt;
 </content>
  </entry>

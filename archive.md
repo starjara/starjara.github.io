@@ -3,8 +3,6 @@ layout: page
 title: Archive
 ---
 
-# Archive
-
 Browse all posts by month and year.
 
 {% for post in site.posts %}

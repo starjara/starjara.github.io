@@ -2,7 +2,7 @@
 title:               Starjara
 tagline:             'Blog for Starjara'
 description:         ''
-url:                 starjara.github.io
+url:                 'starjara.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty

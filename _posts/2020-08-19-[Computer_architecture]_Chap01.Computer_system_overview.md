@@ -4,6 +4,7 @@ title: "[Computer archtectur] Chap01.Computer System Overview"
 ---
 
 1.1 Basic architecture of computer
+
     1. CPU - CPU is short hand of Central Processing Unit and it's important part of computer, because it's decide computer's performance
              CPU can handle 1 word at 1 time
              Generaly 1 word is started from 8bits and increase by a factor of 2

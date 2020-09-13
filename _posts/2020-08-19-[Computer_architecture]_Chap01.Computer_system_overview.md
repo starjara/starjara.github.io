@@ -25,6 +25,21 @@ title: "[Computer archtectur] Chap01.Computer System Overview"
                     ex) Keyboard, mouse
 
 1.2 Presentation and storage of information
+    The computer has and receives all data from binary
+    High level language -> compiler -> machine lanageuage
+    High level language : Easier to read and wirte to human than machine language
+    ex) C, pascal, fortran ...
+    Compiler : Convert high level language to machine language
+    machine language : Language for computer hardware there are consist of binary
+                       machine languages are different from each CPU
+
+    Form of machine language
+        Instruction format : Op code | Operand
+                             ex ) 001 : 01001
+                             3bits are opcode 5 bits are operand than 1 instruction is 8 bits
+
+    1.2.1 Assmembly
+        Machine language is difficult to read and write to human
 
 1.3 System configuration
 
